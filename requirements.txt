@@ -1,0 +1,6 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+elasticsearch==7.16.0
+dill==0.3.8
+multiprocess==0.70.11
+datasets==3.0.1
